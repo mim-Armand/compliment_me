@@ -1,0 +1,18 @@
+GetNewCompliment a compliment
+GetNewCompliment a nice compliment
+GetNewCompliment tell me a compliment
+GetNewCompliment tell me a nice thing
+GetNewCompliment give me a compliment
+GetNewCompliment give me a very nice compliment
+GetNewCompliment compliment me
+GetNewCompliment say something nice about me
+GetNewCompliment do you like me
+GetNewCompliment do you love me
+GetNewCompliment I am awesome
+GetNewCompliment say something
+GetNewCompliment say something about me
+GetNewCompliment what you think about me
+GetNewCompliment what up
+GetNewCompliment what you think
+GetNewCompliment what are your thoughts
+GetNewCompliment am I pretty
